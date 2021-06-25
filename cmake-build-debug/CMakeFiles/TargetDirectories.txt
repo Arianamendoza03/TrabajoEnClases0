@@ -1,0 +1,3 @@
+C:/Users/Ariana/CLionProjects/DeberENClase/cmake-build-debug/CMakeFiles/DeberENClase.dir
+C:/Users/Ariana/CLionProjects/DeberENClase/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ariana/CLionProjects/DeberENClase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
